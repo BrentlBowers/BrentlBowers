@@ -33,7 +33,7 @@ I bring enterprise-scale product experience to fast-moving health tech, bridging
 
 ## Currently
 
-- Building **Visible Health**, a health management platform for individuals and caregivers
+- Building **BB Labs**, a health management platform for individuals and caregivers
 - Open to **Product Manager** and **Product Owner** roles in enterprise, startup, or mid-size companies
 - Interested in health tech, digital transformation, and platforms that make a real difference
 
