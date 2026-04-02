@@ -9,7 +9,7 @@ I bring enterprise-scale product experience to fast-moving health tech, bridging
 ## What I Do
 
 - **Product leadership** across enterprise platforms, covering roadmaps, stakeholder alignment, and go-to-market
-- **Founder** at Visible Health, building a personal health management platform focused on clarity, continuity, and care
+- **Founder** at BB Labs, building a personal health management platform focused on clarity, continuity, and care
 - **Builder**, hands-on with React, TypeScript, and Cloudflare Workers when the product needs it
 
 ---
