@@ -1,35 +1,49 @@
-Hi, I'm Brent Bowers 👋
-Product Manager & Founder based in Pennsylvania, USA
-I bring enterprise-scale product experience to fast-moving health tech — bridging strategy, cross-functional teams, and real user outcomes.
+# Hi, I'm Brent Bowers 👋
 
-What I Do
+**Product Manager & Founder** based in Pennsylvania, USA
 
-Product leadership across enterprise platforms — roadmaps, stakeholder alignment, go-to-market
-Founder at Visible Health — building a personal health management platform focused on clarity, continuity, and care
-Builder — hands-on with React, TypeScript, and Cloudflare Workers when the product needs it
+I bring enterprise-scale product experience to fast-moving health tech, bridging strategy, cross-functional teams, and real user outcomes.
 
+---
 
-Experience Highlights
+## What I Do
 
-Led product strategy and delivery across large enterprise environments
-Managed complex, multi-stakeholder programs from discovery through launch
-Comfortable in regulated industries — healthcare, compliance-sensitive platforms
-Strong track record working with engineering, design, operations, and executive teams
+- **Product leadership** across enterprise platforms, covering roadmaps, stakeholder alignment, and go-to-market
+- **Founder** at Visible Health, building a personal health management platform focused on clarity, continuity, and care
+- **Builder**, hands-on with React, TypeScript, and Cloudflare Workers when the product needs it
 
+---
 
-Core Skills
-Product Strategy Roadmap Planning Stakeholder Management Agile / Scrum
-User Story Writing Go-to-Market Cross-functional Leadership Health Tech
-React TypeScript Cloudflare REST APIs
+## Experience Highlights
 
-Currently
+- Led product strategy and delivery across large enterprise environments
+- Managed complex, multi-stakeholder programs from discovery through launch
+- Comfortable in regulated industries including healthcare and compliance-sensitive platforms
+- Strong track record working with engineering, design, operations, and executive teams
 
-Building Visible Health — a health management platform for individuals and caregivers
-Open to Product Manager and Product Owner roles — enterprise, startup, or mid-size
-Interested in health tech, digital transformation, and platforms that make a real difference
+---
 
+## Core Skills
 
-Let's Connect
+`Product Strategy` `Roadmap Planning` `Stakeholder Management` `Agile / Scrum`
+`User Story Writing` `Go-to-Market` `Cross-functional Leadership` `Health Tech`
+`React` `TypeScript` `Cloudflare` `REST APIs`
 
-LinkedIn: linkedin.com/in/brentbowerspm
-Email: BrentB0818@pm.me
+---
+
+## Currently
+
+- Building **Visible Health**, a health management platform for individuals and caregivers
+- Open to **Product Manager** and **Product Owner** roles in enterprise, startup, or mid-size companies
+- Interested in health tech, digital transformation, and platforms that make a real difference
+
+---
+
+## Let's Connect
+
+- LinkedIn: [linkedin.com/in/brentbowerspm](https://linkedin.com/in/brentbowerspm)
+- Email: BrentB0818@pm.me
+
+---
+
+*Open to new opportunities, feel free to reach out.*
