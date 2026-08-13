@@ -41,7 +41,9 @@ I bring enterprise-scale product experience to fast-moving health tech, bridging
 
 ## Let's Connect
 
-- LinkedIn: [linkedin.com/in/brentbowerspm](https://linkedin.com/in/brentbowerspm)
+- LinkedIn: www.linkedin.com/in/bbowersbuilder
+
+
 - Email: BrentB0818@pm.me
 
 ---
