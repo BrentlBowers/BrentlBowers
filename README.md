@@ -1,6 +1,7 @@
 # Hi, I'm Brent Bowers 👋
 
-**Director of Product & Digital Transformation | Founder | Enterprise Platforms | AI-Enabled Delivery** based in Appomattox VA, USA
+**Director of Product & Digital Transformation | Founder | Enterprise Platforms | AI-Enabled Delivery** 
+Based in Appomattox VA, USA
 
 I bring enterprise-scale product experience to fast-moving health tech, bridging strategy, cross-functional teams, and real user outcomes.
 
