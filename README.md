@@ -1,6 +1,6 @@
 # Hi, I'm Brent Bowers 👋
 
-**Product Manager & Founder** based in Pennsylvania, USA
+**Product Manager & Founder** based in Appomattox VA, USA
 
 I bring enterprise-scale product experience to fast-moving health tech, bridging strategy, cross-functional teams, and real user outcomes.
 
